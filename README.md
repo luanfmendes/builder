@@ -1,4 +1,4 @@
-# Projeto Exemplo: Builder Pattern - Sistema de Lanche
+# Builder Pattern - Sistema de Lanche
 
 Este projeto demonstra o uso do padrão de design **Builder**, que é amplamente utilizado para construir objetos complexos de maneira clara e flexível. Utilizamos como exemplo a montagem de um sistema de **Lanches Personalizados**, onde cada lanche pode conter diferentes tipos de ingredientes e configurações.
 
